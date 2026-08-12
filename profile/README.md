@@ -1,3 +1,3 @@
 <p>
-  <img src="banner.png">
+  <img src="taglineGOAT.jpg">
 </p>
